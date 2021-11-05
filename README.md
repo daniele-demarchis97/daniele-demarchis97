@@ -1,4 +1,4 @@
-# Yo! Welcome in my project lab  :japanese_goblin:
+# Yo! Welcome to my project lab!  :japanese_goblin:
 
 I'm Daniele and I'm a Junior Front End Developer 
 
