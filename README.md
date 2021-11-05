@@ -1,8 +1,8 @@
-### Yo! ⚡ 
+# Yo! Welcome in my project lab :octocat:
 
-I'm Daniele 
+I'm Daniele and I'm a Junior Front End Developer 
 
-## Coding Skills :computer:
+## Coding Skills :space_invader:
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='50'/>
