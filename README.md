@@ -1,4 +1,4 @@
-<h2> Yo! Welcome in my project lab :octocat: </h2>
+<h3> Yo! Welcome in my project lab :octocat: </h3>
 
 I'm Daniele and I'm a Junior Front End Developer 
 
