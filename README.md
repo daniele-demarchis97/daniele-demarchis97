@@ -12,10 +12,10 @@ I'm Daniele and I'm a Junior Front End Developer
 <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='50'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='50'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" height='50'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height='50'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='50'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='50'/>
 <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='50' />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" height='50' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height='50' />
 </div>
